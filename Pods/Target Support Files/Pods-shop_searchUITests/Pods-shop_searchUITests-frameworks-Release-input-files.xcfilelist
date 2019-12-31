@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-shop_searchUITests/Pods-shop_searchUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework
+${BUILT_PRODUCTS_DIR}/OHHTTPStubs/OHHTTPStubs.framework
+${BUILT_PRODUCTS_DIR}/Quick/Quick.framework
